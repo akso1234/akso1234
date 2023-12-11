@@ -1,4 +1,4 @@
-### Hi there 👋
+### 반갑습니다! 프로그래밍을 좋아하는 대한민국의 대학생입니다 😄
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
