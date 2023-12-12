@@ -4,21 +4,20 @@
   <h3> 💬 About me </h3>
   My name is Sion Kim, 22 years old. <br>
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
-
+  <br>
   <h3> 📞 Connect </h3>
   <a href="https://www.instagram.com/sion_kim27/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple?style=flat-sqaure&logo=instagram&logoColor=white"></a>
   <a href="mailto:kimsion07273@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat-sqaure&logo=gmail&logoColor=white"></a>
   <a href="mailto:akso1234@naver.com"><img alt="Static Badge" src="https://img.shields.io/badge/Naver-vlolet?style=flat-sqaure&logo=naver&logoColor=white"></a>
   <a href="https://github.com/akso1234"><img alt="Static Badge" src="https://img.shields.io/badge/Github-black?style=flat-sqaure&logo=github&logoColor=white"></a>
-
+  <br>
   <h3> 🚀 Learning now </h3>
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red?style=flat-sqaure&logo=oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Data_analysis-black?style=flat-sqaure&logo=alwaysdata&logoColor=white&color=black">
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=flat-sqaure&logo=mysql&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JSP-purple?style=flat-sqaure&logo=eclipseide&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange?style=flat-sqaure&logo=git&logoColor=white">
-
-
+  <br>
   <h3> 🎈 Things I code with </h3>
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=flat-sqaure&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%20Language-black?style=flat-sqaure&logo=c&logoColor=white">
@@ -29,10 +28,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%20Platform-orange?style=flat-sqaure&logo=googlecloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20AWS-blue?style=flat-sqaure&logo=amazonaws&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Processing-black?style=flat-sqaure&logo=processingfoundation&logoColor=white">
-
+  <br>
   <h3> 📌 My favorite repository (or I spent lot of time) </h3>
   ⭐<a href="https://github.com/akso1234/Baekjoon-DB"><b>Beakjoon-DB</b></a>⭐
-  
+  <br>
   <h3> 📚 My projects </h3>
   <table>
   <thead align="center">
@@ -65,11 +64,10 @@
     </tr>
   </tbody>
   </table>
-
+  <br><br>
 
   ![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234&theme=radical&show_icons=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akso1234&layout=donut)](https://github.com/akso1234/github-readme-stats)
-
 </div>
 
 <!--
