@@ -12,6 +12,9 @@
   <h3> 🚀 Learning now </h3>
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red?style=flat-sqaure&logo=oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Data_analysis-black?style=flat-sqaure&logo=alwaysdata&logoColor=white&color=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-blue?style=flat-sqaure&logo=mysql&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JSP-purple?style=flat-sqaure&logo=eclipseide&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/GIT-orange?style=flat-sqaure&logo=git&logoColor=white">
 
 
   <h3> 🎈 Things I code with </h3>
