@@ -6,7 +6,7 @@
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
 
   <h3> 📞 Connect </h3>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akso1234?logo=github">
+  <a href="mailto:kimsion07273@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat-sqaure&logo=gmail&logoColor=white"></a>
 
 
   <h3> 🚀 Learning now </h3>
