@@ -44,9 +44,24 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.instagram.com/sion_kim27/"><b>Music Playback Program with Kalimba</b></a></td>
+      <td><a href="https://www.instagram.com/sion_kim27/"><b>Music Playback Program (with Kalimba)</b></a></td>
       <td>Python</td>
       <td>2020 ~ 2020</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.instagram.com/sion_kim27/"><b>Discord MusicBot Program</b></a></td>
+      <td>Python</td>
+      <td>2021 ~ 2021</td>
+    </tr>
+    <tr>
+      <td><a href="https://www.instagram.com/sion_kim27/"><b>Discord GameBot Program</b></a></td>
+      <td>Python</td>
+      <td>2022 ~ 2022</td>
+    </tr>
+    <tr>
+      <td><b>2D Game Project</b></td>
+      <td>Unity(C#)</td>
+      <td>2023 ~ ing</td>
     </tr>
   </tbody>
   </table>
