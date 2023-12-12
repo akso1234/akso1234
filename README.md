@@ -3,7 +3,7 @@
 </div>
 
 <div>
-  <h3> About me </h3>
+  <h2> About me </h2>
   My name is Sion Kim, 22 years old.
 </div>
 
