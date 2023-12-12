@@ -1,8 +1,6 @@
 <div align="center">
   <h1> 🔥 Welcome to my github page! 🔥 </h1>
-</div>
 
-<div>
   <h3> 💬 About me </h3>
   My name is Sion Kim, 22 years old. <br>
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
@@ -12,6 +10,9 @@
 
 
   <h3> 🚀 Learning now </h3>
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Data_analysis-black?style=flat-sqaure&logo=alwaysdata&logoColor=white&color=black">
+
 
   <h3> 🎈 Things I code with </h3>
 
@@ -26,7 +27,6 @@
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔥 Welcome to my github page! 🔥 이 부분 사진으로 대체해도 될 것 같음
-I am majoring in computer engineering at university.
 
 내 소개
 (이름, 나이, 학교, 학과)
