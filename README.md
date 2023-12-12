@@ -18,6 +18,7 @@
 
 
   <h3> 🎈 Things I code with </h3>
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
   <h3> 📌 My favorite repository (or I spent lot of time) </h3>
   
