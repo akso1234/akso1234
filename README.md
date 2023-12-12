@@ -32,11 +32,11 @@
 
   <h3> 📌 My favorite repository (or I spent lot of time) </h3>
   <a href="https://github.com/akso1234/Baekjoon-DB"><b>Beakjoon-DB</b>
-    
+  
   <h3> 📚 My projects </h3>
-</div>
 
-### hello
+  ![Eunwoo-1213's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eunwoo-1213&theme=ambient_gradient&show_icons=true)
+</div>
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
