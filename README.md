@@ -34,9 +34,9 @@
   <a href="https://github.com/akso1234/Baekjoon-DB"><b>Beakjoon-DB</b>
     
   <h3> 📚 My projects </h3>
-
-  <a href="https://github.com/akso1234/github-readme-stats">Label</a>
 </div>
+
+### hello
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
