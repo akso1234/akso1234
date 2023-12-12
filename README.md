@@ -1,6 +1,4 @@
-<div align="center">
-  <h1> 🔥 Welcome to my github page! 🔥 </h1>
-</div>
+### 🔥 Welcome to my github page! 🔥
 
 ## About me
 My name is Sion Kim, 22 years old.
