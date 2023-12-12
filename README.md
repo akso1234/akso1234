@@ -18,7 +18,10 @@
 
 
   <h3> 🎈 Things I code with </h3>
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-blue?style=flat-sqaure&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%20Language-black?style=flat-sqaure&logo=c&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=flat-sqaure&logo=csharp&logoColor=white">
+
 
   <h3> 📌 My favorite repository (or I spent lot of time) </h3>
   
