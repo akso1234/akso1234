@@ -7,6 +7,8 @@
 
   <h3> 📞 Connect </h3>
   <a href="mailto:kimsion07273@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat-sqaure&logo=gmail&logoColor=white"></a>
+  <a href="https://www.instagram.com/sion_kim27/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple?style=flat-sqaure&logo=instagram&logoColor=white"></a>
+
 
 
   <h3> 🚀 Learning now </h3>
