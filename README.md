@@ -22,7 +22,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/C%20Language-black?style=flat-sqaure&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=flat-sqaure&logo=csharp&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-white?style=flat-sqaure&logo=unity&logoColor=black">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Discord-indigo?style=flat-sqaure&logo=discord&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Discord-indigo?style=flat-sqaure&logo=discord&logoColor=white"><br>
   <img alt="Static Badge" src="https://img.shields.io/badge/Google%20Cloud%20Platform-orange?style=flat-sqaure&logo=googlecloud&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Heroku-purple?style=flat-sqaure&logo=heroku&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Amazon%20AWS-blue?style=flat-sqaure&logo=amazonaws&logoColor=white">
