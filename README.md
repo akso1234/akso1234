@@ -35,7 +35,7 @@
     
   <h3> 📚 My projects </h3>
 
-  [![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234)](https://github.com/akso1234/github-readme-stats)
+  <a href="https://github.com/akso1234/github-readme-stats">Label</a>
 </div>
 
 <!--
