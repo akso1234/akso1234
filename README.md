@@ -18,7 +18,7 @@
 
 
   <h3> 🎈 Things I code with </h3>
-  <img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-blue?style=flat-sqaure&logo=python&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-blue?style=flat-sqaure&logo=python&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%20Language-black?style=flat-sqaure&logo=c&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-purple?style=flat-sqaure&logo=csharp&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-white?style=flat-sqaure&logo=unity&logoColor=black">
