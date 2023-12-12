@@ -10,7 +10,7 @@
 
 
   <h3> 🚀 Learning now </h3>
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-red?style=flat-sqaure&logo=oracle&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Data_analysis-black?style=flat-sqaure&logo=alwaysdata&logoColor=white&color=black">
 
 
