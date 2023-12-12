@@ -4,7 +4,7 @@
 
 <div>
   <h3> 💬 About me </h3>
-  My name is Sion Kim, 22 years old.
+  My name is Sion Kim, 22 years old. <br>
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
 
   <h3> 📞 Connect </h3>
