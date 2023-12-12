@@ -37,7 +37,7 @@
 
 
 </div>
-![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234&theme=ambient_gradient&show_icons=true)
+[![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234)](https://github.com/akso1234/github-readme-stats)
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
