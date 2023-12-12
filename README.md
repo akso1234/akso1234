@@ -35,7 +35,7 @@
   
   <h3> 📚 My projects </h3>
 
-  ![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234&theme=redical&show_icons=true)
+  ![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234&theme=radical&show_icons=true)
 </div>
 
 <!--
