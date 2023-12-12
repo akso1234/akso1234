@@ -8,6 +8,15 @@
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
 
   <h3> 📞 Connect </h3>
+  ![GitHub followers](https://img.shields.io/github/followers/akso1234?logo=github)
+
+  <h3> 🚀 Learning now </h3>
+
+  <h3> 🎈 Things I code with </h3>
+
+  <h3> 📌 My favorite repository (or I spent lot of time) </h3>
+  
+  <h3> 📚 My projects </h3>
   
 </div>
 
