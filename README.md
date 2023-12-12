@@ -1,4 +1,6 @@
-### <center> 🔥 Welcome to my github page! 🔥 </center>
+<div align="center">
+  <h1> 🔥 Welcome to my github page! 🔥 </h1>
+</div>
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
