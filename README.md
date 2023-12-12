@@ -44,7 +44,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.instagram.com/sion_kim27/"><b>Music Playback Program (with Kalimba)</b></a></td>
+      <td><a href="https://github.com/akso1234/music_playback_program"><b>Music Playback Program (with Kalimba)</b></a></td>
       <td>Python</td>
       <td>2020 ~ 2020</td>
     </tr>
