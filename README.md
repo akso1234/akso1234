@@ -8,7 +8,8 @@
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
 
   <h3> 📞 Connect </h3>
-  ![GitHub followers](https://img.shields.io/github/followers/akso1234?logo=github)
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/akso1234?logo=github">
+
 
   <h3> 🚀 Learning now </h3>
 
