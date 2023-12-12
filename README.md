@@ -37,11 +37,18 @@
   <table>
   <thead align="center">
       <tr border: none;>
-        <td><b>🎁 Projects</b></td>
-        <td><b>⭐ Stars</b></td>
-        <td><b>📚 Forks</b></td>
+        <td><b>Projects</b></td>
+        <td><b>Languanges</b></td>
+        <td><b>years</b></td>
       </tr>
-    </thead>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www.instagram.com/sion_kim27/"><b>Music Playback Program with Kalimba</b></a></td>
+      <td>Python</td>
+      <td>2020 ~ 2020</td>
+    </tr>
+  </tbody>
   </table>
 
   ![akso1234's GitHub stats](https://github-readme-stats.vercel.app/api?username=akso1234&theme=radical&show_icons=true)
