@@ -1,4 +1,4 @@
-### 🔥 Welcome to my github page! 🔥
+<center> ### 🔥 Welcome to my github page! 🔥 </center>
 
 <!--
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
