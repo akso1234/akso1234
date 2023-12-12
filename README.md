@@ -5,6 +5,7 @@
 <div>
   <h3> 💬 About me </h3>
   My name is Sion Kim, 22 years old.
+  I'm majoring in AI & computer engineering at Dongyang Mirae University.
 
   <h3> 📞 Connect </h3>
   
@@ -15,6 +16,7 @@
 **akso1234/akso1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔥 Welcome to my github page! 🔥 이 부분 사진으로 대체해도 될 것 같음
+I am majoring in computer engineering at university.
 
 내 소개
 (이름, 나이, 학교, 학과)
