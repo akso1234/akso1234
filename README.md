@@ -2,8 +2,7 @@
   <h1> 🔥 Welcome to my github page! 🔥 </h1>
 </div>
 
-<h1> About me </h1>
-My name is Sion Kim, 22 years old.
+# My name is Sion Kim, 22 years old.
 
 
 <!--
