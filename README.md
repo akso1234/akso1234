@@ -1,7 +1,7 @@
 <div align="center">
-  <h1><samp><b>System.out.println("Welcome to my github page!")</b></samp></h1>
+  <h3><samp><b>System.out.println("Welcome to my github page!")</b></samp></h3>
 
-  
+  <br><br>  
 
   <h3> 💬 About me </h3>
   My name is Sion Kim, 22 years old. <br>
