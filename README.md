@@ -8,7 +8,7 @@
   My name is Sion Kim, 22 years old. <br>
   I'm majoring in AI & computer engineering at Dongyang Mirae University.
   <br><br>
-  <h3> 📞 Connect </h3>
+  <h3> 📞 Contact </h3>
   <a href="https://www.instagram.com/sion_kim27/"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-purple?style=flat-sqaure&logo=instagram&logoColor=white"></a>
   <a href="mailto:kimsion07273@gmail.com"><img alt="Static Badge" src="https://img.shields.io/badge/Gmail-red?style=flat-sqaure&logo=gmail&logoColor=white"></a>
   <a href="mailto:akso1234@naver.com"><img alt="Static Badge" src="https://img.shields.io/badge/Naver-vlolet?style=flat-sqaure&logo=naver&logoColor=white"></a>
