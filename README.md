@@ -1,6 +1,6 @@
 <div align="center">
   <br>
-  <h3><samp><b><p><span style="background: linear-gradient(to right, #ffa7a3, #5673bd); padding: 0.43em 1em; font-size: 19px; border-radius: 3px; color: #ffffff;">System.out.println("Welcome to my github page!");</span></p></b></samp></h3>
+  <h3><samp><b>System.out.println("Welcome to my github page!");</b></samp></h3>
 
   <br><br> 
 
