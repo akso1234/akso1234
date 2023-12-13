@@ -1,5 +1,5 @@
 <div align="center">
-  <h2><samp><b>System.out.println("Welcome to my github page!")</b></samp></h2>
+  <h3><samp><b>System.out.println("Welcome to my github page!")</b></samp></h3>
 
   <br><br>  
 
