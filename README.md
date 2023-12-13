@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🔥 Welcome to my github page! 🔥 </h1>
+  <h3><b>System.out.println("Welcome to my github page!")</b></h3>
 
   <h3> 💬 About me </h3>
   My name is Sion Kim, 22 years old. <br>
